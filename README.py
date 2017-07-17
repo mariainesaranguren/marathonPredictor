@@ -1,5 +1,5 @@
 
-# coding: utf-8
+* Note: Some files of this project were intentionally left out. Without them, it is impossible to correctly run the program. Please contact me if you are interested in seeing more of this project.
 
 # # Building a Better Marathon Race Predictor
 
